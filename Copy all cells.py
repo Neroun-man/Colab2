@@ -11,3 +11,7 @@ for i in range(1,190):
 
 def f():
   pass
+#maybe somethin new
+
+for i in [1,2]:
+  print(i)
